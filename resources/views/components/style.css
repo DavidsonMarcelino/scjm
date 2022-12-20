@@ -1,0 +1,137 @@
+.vh1{min-height: 1vh;}   .vh2{min-height: 2vh;}   .vh3{min-height: 3vh;}   .vh4{min-height: 4vh;}   .vh5{min-height: 5vh;}   .vh6{min-height: 6vh;}   .vh7{min-height: 7vh;}   .vh8{min-height: 8vh;}   .vh9{min-height: 9vh;}   .vh10{min-height: 10vh;}
+.vh11{min-height: 11vh;} .vh12{min-height: 12vh;} .vh13{min-height: 13vh;} .vh14{min-height: 14vh;} .vh15{min-height: 15vh;} .vh16{min-height: 16vh;} .vh17{min-height: 17vh;} .vh18{min-height: 18vh;} .vh19{min-height: 19vh;} .vh20{min-height: 20vh;}
+.vh21{min-height: 21vh;} .vh22{min-height: 22vh;} .vh23{min-height: 23vh;} .vh24{min-height: 24vh;} .vh25{min-height: 25vh;} .vh26{min-height: 26vh;} .vh27{min-height: 27vh;} .vh28{min-height: 28vh;} .vh29{min-height: 29vh;} .vh30{min-height: 30vh;}
+.vh31{min-height: 31vh;} .vh32{min-height: 32vh;} .vh33{min-height: 33vh;} .vh34{min-height: 34vh;} .vh35{min-height: 35vh;} .vh36{min-height: 36vh;} .vh37{min-height: 37vh;} .vh38{min-height: 38vh;} .vh39{min-height: 39vh;} .vh40{min-height: 40vh;}
+.vh41{min-height: 41vh;} .vh42{min-height: 42vh;} .vh43{min-height: 43vh;} .vh44{min-height: 44vh;} .vh45{min-height: 45vh;} .vh46{min-height: 46vh;} .vh47{min-height: 47vh;} .vh48{min-height: 48vh;} .vh49{min-height: 49vh;} .vh50{min-height: 50vh;}
+.vh51{min-height: 51vh;} .vh52{min-height: 52vh;} .vh53{min-height: 53vh;} .vh54{min-height: 54vh;} .vh55{min-height: 55vh;} .vh56{min-height: 56vh;} .vh57{min-height: 57vh;} .vh58{min-height: 58vh;} .vh59{min-height: 59vh;} .vh60{min-height: 60vh;}
+.vh61{min-height: 61vh;} .vh62{min-height: 62vh;} .vh63{min-height: 63vh;} .vh64{min-height: 64vh;} .vh65{min-height: 65vh;} .vh66{min-height: 66vh;} .vh67{min-height: 67vh;} .vh68{min-height: 68vh;} .vh69{min-height: 69vh;} .vh70{min-height: 70vh;}
+.vh71{min-height: 71vh;} .vh72{min-height: 72vh;} .vh73{min-height: 73vh;} .vh74{min-height: 74vh;} .vh75{min-height: 75vh;} .vh76{min-height: 76vh;} .vh77{min-height: 77vh;} .vh78{min-height: 78vh;} .vh79{min-height: 79vh;} .vh80{min-height: 80vh;}
+.vh81{min-height: 81vh;} .vh82{min-height: 82vh;} .vh83{min-height: 83vh;} .vh84{min-height: 84vh;} .vh85{min-height: 85vh;} .vh86{min-height: 86vh;} .vh87{min-height: 87vh;} .vh88{min-height: 88vh;} .vh89{min-height: 89vh;} .vh90{min-height: 90vh;}
+.vh91{min-height: 91vh;} .vh92{min-height: 92vh;} .vh93{min-height: 93vh;} .vh94{min-height: 94vh;} .vh95{min-height: 95vh;} .vh96{min-height: 96vh;} .vh97{min-height: 97vh;} .vh98{min-height: 98vh;} .vh99{min-height: 99vh;} .vh100{min-height: 100vh;}
+.w100{min-width: 100%;}  .w-50{width: 50%;}       .h-50{height: 50%;}      .w-100{width: 100%;}     .h-100{height: 100%;}
+a{
+    color: currentColor !important;
+    text-decoration: none !important;
+}
+.bg-lucro{
+    background: rgba(0, 150, 0, 0.3) !important;
+}
+.bg-none{
+    background: transparent !important;
+}
+.bg-prejuizo{
+    background: rgba(255, 0, 0, 0.2) !important;
+}
+.bg-purple{
+    background: #4b3f8b;
+    color: white !important;
+}
+.bg-reposicao{
+    background: rgba(255, 0, 0, 0.3) !important;
+}
+.black-over{
+    background: rgba(0, 0, 0, 0.2);
+}
+.breadcrumb-text{
+    height: 100%!important;
+    display: inline-block;
+    padding: auto;
+    text-align: left;
+}
+.btn{
+    box-shadow: none !important;
+}
+.btn-perfil > img{
+    border: 3px dashed #cca;
+    border-radius: 300px;
+    padding: 4px;
+}
+.btn-purple{
+    background: #4b3f8b !important;
+    color: white !important;
+}
+.btn-purple:hover{
+    background: #5b4f9b !important;
+}
+.btn-middle-table-badge{
+    border-radius: 0 !important;
+}
+.btn-table-badge{
+    border-radius: 0 3px 3px 0 !important;
+}
+.card{
+    background: transparent !important;
+    border-color: #dddddd !important;
+}
+.clicavel{
+    cursor: pointer;
+}
+.clicavel:hover{
+    background: rgba(255, 255, 255, 0.1)
+}
+form, td, tr, th, .text-white{
+    color: white !important;
+}
+.form-breadcrumb{
+    background: transparent !important;
+    border: none !important;
+    color: white !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.form-breadcrumb::-webkit-calendar-picker-indicator{
+    filter: invert(1);
+}
+.home-btn-purple{
+    background: linear-gradient(45deg, #6b5fab 0%, #6b5fab 20%, #4b3f8b 40%, #3b2f7b 60%, #2b1f6b 100%);
+    background-size: 170%;
+    color: #fff !important;
+    font-size: 2.5vh;
+    font-weight: 500;
+    transition: 0.7s;
+}
+.home-btn-purple:hover{
+    background-size: 100%;
+    color: #fff !important;
+}
+.home-btn-purple > img{
+    max-width: 100%;
+    transition: all 1.5s;
+}
+.home-btn-purple:hover > img{
+    transform: scale(1.1);
+}
+.inativo{
+    opacity: 50%;
+}
+.linhaHeader{
+    background: linear-gradient(45deg,#8870AE, #fff, #8870AE);
+    position: absolute;
+    height: 1px;
+    top: 6vh;
+    width:100%;
+}
+.no-border{
+    border: none !important;
+}
+option{
+    color: black!important;
+}
+.table-badge{
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 2.5vh;
+    margin: 1vh 0;
+    padding: 0 0 0 1vh;
+    height: 5vh;
+}
+.tela{
+    min-height: 100vh;
+    background: radial-gradient(#dfafff, #a090f0);
+}
+.text-prejuizo{
+    color: rgba(200, 0, 0, 1) !important;
+}
+.text-lucro{
+    color: rgba(0, 230, 0, 1) !important;
+}
